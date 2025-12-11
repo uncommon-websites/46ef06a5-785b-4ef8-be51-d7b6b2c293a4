@@ -2,20 +2,15 @@
 	import "../app.css";
 </script>
 
-<div class="flex min-h-screen flex-col font-sans text-gray-900 selection:bg-ellis-green-200 selection:text-ellis-green-900">
+<div class="flex min-h-screen flex-col font-sans text-gray-900 selection:bg-ellis-green-200 selection:text-gray-900">
 	<header class="sticky top-0 z-50 w-full bg-white/80 backdrop-blur-md border-b border-gray-100">
 		<div class="mx-auto flex h-20 max-w-[1400px] items-center justify-between px-6 lg:px-12">
 			<!-- Logo -->
 			<a href="/" class="flex items-center gap-2">
-				<svg width="40" height="20" viewBox="0 0 40 20" fill="none" xmlns="http://www.w3.org/2000/svg" class="h-6 w-auto">
-					<path d="M5.5 15.5C5.5 15.5 5.5 11.5 5.5 9.5C5.5 7.5 7 6 9 6H11" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-					<path d="M14 15.5V6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-					<path d="M18 15.5V6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-					<path d="M22 15.5V9.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-					<path d="M22 6V7" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-					<path d="M26 15.5C26 15.5 29 15.5 29 13.5C29 11.5 26 11.5 26 11.5C26 11.5 29 11.5 29 9.5C29 7.5 26 7.5 26 7.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+				<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="h-6 w-6">
+					<path d="M12 2L13.2 9.92154L20.6603 7L14.4 12L20.6603 17L13.2 14.0785L12 22L10.8 14.0785L3.33975 17L9.6 12L3.33975 7L10.8 9.92154L12 2Z" fill="currentColor" />
 				</svg>
-				<span class="font-serif text-2xl font-medium tracking-tight">ellis</span>
+				<span class="font-serif text-2xl font-medium tracking-tight">Ellis</span>
 			</a>
 
 			<!-- Navigation -->
@@ -53,7 +48,10 @@
 				<!-- Brand Column -->
 				<div class="lg:col-span-4 flex flex-col gap-8">
 					<a href="/" class="flex items-center gap-2">
-						<span class="font-serif text-3xl font-medium tracking-tight">ellis</span>
+						<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="h-8 w-8">
+							<path d="M12 2L13.2 9.92154L20.6603 7L14.4 12L20.6603 17L13.2 14.0785L12 22L10.8 14.0785L3.33975 17L9.6 12L3.33975 7L10.8 9.92154L12 2Z" fill="currentColor" />
+						</svg>
+						<span class="font-serif text-3xl font-medium tracking-tight">Ellis</span>
 					</a>
 					<p class="text-xs text-gray-500 leading-relaxed max-w-sm">
 						Ellis Legal, P.C. is a California-licensed law firm. The information provided here is for general informational purposes only and does not constitute legal advice. Viewing this information or contacting us through this website does not create an attorney-client relationship. For personalized legal advice, please reach out to us directly to setup a legal consult or consult directly with a qualified attorney.

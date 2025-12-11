@@ -32,9 +32,8 @@
 		<div class="mx-auto max-w-[1400px] px-6 lg:px-12">
 			<div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
 				<!-- Hero Image (Left) -->
-				<div class="relative h-[600px] w-full rounded-2xl overflow-hidden bg-ellis-green-100/50">
-					<!-- Abstract representation of the statue -->
-					<div class="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1550100136-e074fa714874?q=80&w=800&auto=format&fit=crop')] bg-cover bg-center opacity-80 mix-blend-multiply grayscale contrast-125 sepia-[.3] hue-rotate-[130deg]"></div>
+				<div class="relative h-[600px] w-full rounded-2xl overflow-hidden bg-ellis-green-50">
+					<img src="/generated/image-professional-immigration-attorney-consul-1765475809047-0.webp" alt="Immigration attorney consulting with client" class="absolute inset-0 h-full w-full object-cover" />
 					<div class="absolute inset-0 bg-gradient-to-t from-gray-50 via-transparent to-transparent"></div>
 				</div>
 
@@ -85,7 +84,6 @@
 			<div class="mt-24 flex items-center gap-12 border-t border-gray-200 pt-8">
 				<span class="text-[10px] font-bold uppercase tracking-[0.2em] text-gray-400">Trusted By</span>
 				<div class="flex items-center gap-12 opacity-50 grayscale">
-					<!-- Logos (Placeholders text for now as I don't have SVGs) -->
 					<span class="font-bold text-xl font-serif">Adaptive</span>
 					<span class="font-bold text-xl">wordware</span>
 					<span class="font-bold text-xl tracking-tighter">micro1.</span>
@@ -121,7 +119,7 @@
 				</div>
 
 				<div class="relative h-[600px] bg-gray-100 rounded-lg overflow-hidden">
-					<img src="https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1000&auto=format&fit=crop" alt="Team working" class="absolute inset-0 h-full w-full object-cover grayscale contrast-75 sepia-[.2]" />
+					<img src="/generated/image-immigration-attorneys-collaborating-at-a-1765475811264-1.webp" alt="Immigration attorneys collaborating" class="absolute inset-0 h-full w-full object-cover" />
 				</div>
 			</div>
 		</div>
@@ -258,9 +256,8 @@
 			</h2>
 
 			<div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-				<div class="relative h-[500px] bg-ellis-green-100/50 rounded-lg overflow-hidden">
-					<!-- Stylized portrait placeholder -->
-					<img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=800&auto=format&fit=crop" alt="Sean McDermott" class="absolute inset-0 h-full w-full object-cover mix-blend-multiply grayscale contrast-125" />
+				<div class="relative h-[500px] bg-ellis-green-50 rounded-lg overflow-hidden">
+					<img src="/generated/image-professional-headshot-of-confident-hr-ex-1765475813312-2.webp" alt="Sean McDermott, Chief People Officer at Adaptive Security" class="absolute inset-0 h-full w-full object-cover" />
 				</div>
 				<div class="flex flex-col justify-between h-full py-8">
 					<div class="flex justify-between items-baseline mb-12">
@@ -341,10 +338,9 @@
 		<div class="mx-auto max-w-[1400px] px-6 lg:px-12">
 			<div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
 				<div class="relative h-[400px] w-full flex items-center justify-center">
-					<!-- Torch illustration placeholder -->
-					<div class="relative h-full w-full max-w-xs opacity-80">
-						<div class="absolute inset-0 bg-ellis-green-100 opacity-50 blur-3xl rounded-full"></div>
-						<img src="https://images.unsplash.com/photo-1550100136-e074fa714874?q=80&w=400&auto=format&fit=crop" alt="Torch" class="relative z-10 h-full w-full object-cover mask-image-torch mix-blend-multiply grayscale contrast-125 sepia-[.3] hue-rotate-[130deg] rounded-full" style="mask-image: linear-gradient(to bottom, black, transparent);" />
+					<div class="relative h-full w-full max-w-xs">
+						<div class="absolute inset-0 bg-ellis-green-100 opacity-30 blur-3xl rounded-full"></div>
+						<img src="/generated/image-close-up-of-statue-of-liberty-torch-agai-1765475815562-3.webp" alt="Statue of Liberty torch" class="relative z-10 h-full w-full object-cover mask-image-torch rounded-full" style="mask-image: linear-gradient(to bottom, black, transparent);" />
 					</div>
 				</div>
 
